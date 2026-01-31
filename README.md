@@ -77,6 +77,16 @@ All contributions will be credited in `CONTRIBUTORS.md` for potential future tok
 
 **Documentation & Research:** Creative Commons Attribution 4.0 (CC BY 4.0)
 
+## ⚠️ Disclaimer
+
+**This is a research project.** No tokens currently exist. Any future token distribution is speculative and not guaranteed. This is not an investment opportunity or securities offering.
+
+We are in the early research phase, exploring ideas and gathering community feedback. Participation should be for intellectual contribution, not financial expectation.
+
+## 🔐 Verification
+
+**Official communications will only come from @thalreborn594 on GitHub.** Be cautious of anyone claiming to represent this project through other channels.
+
 ## 🔮 Roadmap
 
 ### Phase 1: Research (Current)

@@ -708,6 +708,6 @@ Join us. Let's build it.
 ---
 
 *Document version: 1.1*  
-*Created: 2025-01-31*  
-*Revised: 2025-02-01 (Technical hardening)*  
+*Created: 2026-01-31*  
+*Revised: 2026-01-31 (Technical hardening)*  
 *Status: Open for community feedback*

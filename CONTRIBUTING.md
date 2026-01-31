@@ -99,6 +99,24 @@ If/when the network launches:
 - Decision will be community-governed
 - **No guarantees** — this is research, not an investment
 
+## 📜 Intellectual Property
+
+### Ownership
+By contributing to this project, you agree that your contributions may be used under the project's open source licenses:
+- **Code:** MIT License
+- **Documentation & Research:** Creative Commons Attribution 4.0 (CC BY 4.0)
+
+### Copyright
+- **You retain copyright** to your work
+- You grant the project a perpetual, worldwide, non-exclusive, royalty-free license to use your contribution
+- Your name will be credited in CONTRIBUTORS.md
+
+### What This Means
+- Your contributions will be openly available to the community
+- Others can build upon your work under the same licenses
+- You retain the right to use your work elsewhere
+- Future token allocation, if any, is at the discretion of community governance and is not guaranteed for any contribution
+
 ## 🔄 Research Branch Workflow
 
 ```
